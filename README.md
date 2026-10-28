@@ -1,4 +1,4 @@
-# SQL ERROR
+# SQL Vulnerabilities
 
 Kho này tổng hợp các ghi chú ngắn bằng tiếng Việt về những lỗ hổng và rủi ro vận hành liên quan đến SQL. Mỗi chủ đề được tách thành một file Markdown riêng trong thư mục `vulnerabilities/` và code cách khắc phục nằm ở `code/saves/`.
 
